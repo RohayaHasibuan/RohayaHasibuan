@@ -1,6 +1,6 @@
 ## Hi there 👋 im hayaaa
 
-![](image/github-header-banner.png)
+![](image/new-github-header-banner.png)
 
 
 <picture>
