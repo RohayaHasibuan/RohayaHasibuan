@@ -4,10 +4,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohayaHasibuan&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohayaHasibuan&layout=compact&theme=tokyonight&hide_border=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohayaHasibuan/RohayaHasibuan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohayaHasibuan/RohayaHasibuan/output/pacman-contribution-graph.svg">
