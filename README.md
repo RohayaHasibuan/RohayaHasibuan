@@ -5,10 +5,15 @@
 ## ✍ About Me
  
 🔭 I’m currently working on my education is in the information technology department
+
 🌱 I’m currently learning human-computer interaction course
+
 📫 You can contact me via Instagram: hayahasibuan and email: hasibuanrohaya00@gmail.com
+
 😄 Pronouns: yours
+
 🚀 other: C++, Python, and Web Development 
+
 🎯 Goal: Becoming a professional software developer
 
 
@@ -32,7 +37,7 @@ https://www.threads.net/@hayahasibuan
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/f7e5b4c86b4bdd13013661f5c583119240b93da0c3dfcca55dbef71a0b8b9114/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" height="150"/></p>
+<img src="https://camo.githubusercontent.com/f7e5b4c86b4bdd13013661f5c583119240b93da0c3dfcca55dbef71a0b8b9114/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" height="200"/></p>
 
 
 ## 🐍 Snake & Pacman
